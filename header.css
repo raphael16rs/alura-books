@@ -6,3 +6,16 @@
     background-repeat: no-repeat;
     background-position: center;
 }
+
+.cabecalho{
+    background-color: #FFFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align: relative;
+}
+
+.couter{
+    display: flex;
+    align-items: center;
+}
